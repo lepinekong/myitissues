@@ -24,8 +24,7 @@ Journal: [
     Links: [
         .title: {Details:}
         .links: [
-            {ReAdABLE Human Format} #./readablehumanformat/links.issue
-            {action2} #./02           
+            {ReAdABLE Human Format} #./readablehumanformat/links.issue         
         ]      
     ]
 

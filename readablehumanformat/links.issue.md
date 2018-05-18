@@ -132,3 +132,4 @@ markdown-gen
 ```
 
 
+We found that it works with Journal but not with Article or Summary: very weird, investigation should continue.

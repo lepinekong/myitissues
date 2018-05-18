@@ -121,6 +121,8 @@ do read http://readablehumanformat.com/lib.red
 markdown-gen
 
         }
+
+        .text: {We found that it works with Journal but not with Article or Summary: very weird, investigation should continue.}
     ]
 ]
 
